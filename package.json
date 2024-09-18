@@ -1,0 +1,23 @@
+{
+  "name": "tu-proyecto",
+  "version": "1.0.0",
+  "description": "Descripción de tu proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.3.3"
+  },
+  "babel": {
+    "presets": ["@babel/preset-env"]
+  }
+}

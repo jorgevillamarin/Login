@@ -1,0 +1,6 @@
+*Aplicacion creada con express, node y sqlite*
+
+Comando para correr los test: "npm test"
+
+Comando para iniciar el server de express: node app.js
+
